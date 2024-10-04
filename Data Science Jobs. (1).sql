@@ -1,7 +1,7 @@
-use campusx;
+use case_study;
 
 
-/*1.You're a Compensation analyst employed by a multinational corporation. Your Assignment is to Pinpoint Countries who give work fully remotely, for the title
+/*1. To Pinpoint Countries who give work fully remotely, for the title
  'managers’ Paying salaries Exceeding $90,000 USD*/
 SELECT distINct(company_locatiON) FROM salaries WHERE job_title like '%Manager%' and salary_IN_usd > 90000 and remote_ratio= 100;
 
