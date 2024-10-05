@@ -1,4 +1,3 @@
-To give the README a more attractive look, we can use emojis, better section formatting, and include visuals where relevant. Here's an enhanced version of the README with a polished and visually engaging style:
 
 ---
 
@@ -77,6 +76,12 @@ Here's a suggested conclusion section to wrap up your README and reinforce the v
 Here's a suggested conclusion section to wrap up your README and reinforce the value of your project:
 
 ---
+## 📬 Contact
+
+If you have any questions or feedback, reach out to me:
+
+- **Your Name**: [Your LinkedIn](https://www.linkedin.com/in/suman-khatua-919a7b2b0/)
+- **Email**: sumankhatua51@gmail.com
 
 ## 📌 Conclusion
 
