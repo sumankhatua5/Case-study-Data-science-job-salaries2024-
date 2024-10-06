@@ -69,13 +69,6 @@ Here are some key findings:
 - **Python** (optional) for additional data manipulation and visualization
 
 ---
-
-
-Here's a suggested conclusion section to wrap up your README and reinforce the value of your project:
-
-Here's a suggested conclusion section to wrap up your README and reinforce the value of your project:
-
----
 ## 📬 Contact
 
 If you have any questions or feedback, reach out to me:
