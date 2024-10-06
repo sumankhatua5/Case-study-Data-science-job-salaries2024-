@@ -34,7 +34,6 @@ The dataset includes:
 - **💰 Salaries**: In USD
 - **📅 Work Year**: 2020-2024
 
-This comprehensive dataset allows us to dive deep into the global job market, uncover trends, and make salary predictions.
 
 ---
 
@@ -66,7 +65,6 @@ Here are some key findings:
 - **SQL** for querying and analysis
 - **Kaggle** for dataset source
 - **MySQL**  for database management
-- **Python** (optional) for additional data manipulation and visualization
 
 ---
 ## 📬 Contact
